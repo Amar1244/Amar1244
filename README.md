@@ -54,13 +54,15 @@ I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Data & Visualization**
 
@@ -86,30 +88,41 @@ I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **
 | :--- | :--- | :--- |
 | **Florence Clinic** *(freelance client project)* | Website for a home-nursing clinic in Ghaziabad, built and delivered for a client | [Live site](https://florencenursing.vercel.app) · [Code](https://github.com/Amar1244/Florence_Clinic) |
 
-### 🤖 AI Agents & RAG
+### 🤖 AI Agents, RAG & Generative AI
 
 | Project | What it does | Links |
 | :--- | :--- | :--- |
 | **Real-Time Web Search AI Agent** | LangChain + Gemini agent that searches the web in real time using Tavily | [Live demo](https://realtimesearchaiagent.streamlit.app/) · [Code](https://github.com/Amar1244/real-time-web-search-ai-agent) |
-| **Swiggy RAG AI** | RAG assistant that answers questions over food delivery data | [Live demo](https://swiggy-rag-ai.streamlit.app) · [Code](https://github.com/Amar1244/swiggy-annual-report-rag) |
-| **AI Email Assistant** | FastAPI + Streamlit app for AI email writing, semantic contact search and bulk sending | [Live demo](https://aiemailassistant.streamlit.app/) · [Code](https://github.com/Amar1244/AI-Email-Assistant-) |
-| **Textro ChatBot** | Flask chatbot using Google Gemini 2.0 Flash | [Live demo](https://textrochatbot.vercel.app) · [Code](https://github.com/Amar1244/Textro-ChatBot) |
+| **Swiggy Annual Report RAG** | Answers questions from the Swiggy FY 2023-24 annual report, with page citations (ChromaDB + Gemini) | [Live demo](https://swiggy-rag-ai.streamlit.app) · [Code](https://github.com/Amar1244/swiggy-annual-report-rag) |
+| **AI Ad Creative Generator** | Generates Meta ad copy with Groq LLMs and ad images with fal.ai, with logo branding and Feed/Story exports | [Code](https://github.com/Amar1244/ai-ad-creative-generator) |
+| **AI Email Assistant** | FastAPI + Streamlit app for AI email writing, semantic contact search and bulk sending | [Live demo](https://aiemailassistant.streamlit.app/) · [Code](https://github.com/Amar1244/ai-email-assistant) |
+| **Ask Your PDF (RAG)** | Chat with any PDF using Gemini, LangChain and ChromaDB, with conversational memory | [Code](https://github.com/Amar1244/ask-your-pdf-rag) |
+| **Gemini Flask Chatbot** | Flask chatbot using Google Gemini 2.0 Flash with a web chat UI and REST API | [Live demo](https://textrochatbot.vercel.app) · [Code](https://github.com/Amar1244/gemini-flask-chatbot) |
 
-### 📊 Machine Learning
+### 📊 Machine Learning & NLP
 
 | Project | What it does | Links |
 | :--- | :--- | :--- |
-| **Employee Attrition Prediction** | Predicts attrition risk with Logistic Regression, XGBoost and Random Forest (85% accuracy, SMOTE for class imbalance) | [Live demo](https://employeeretentionpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/Employee_Retention_Prediction_Deploy_Model_Dashboard) |
-| **Term Deposit Prediction** | Predicts term deposit subscriptions from bank data (91% accuracy) | [Live demo](https://termdepositpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/Term_Deposit_Prediction) |
-| **Heart Disease Prediction** | Predicts heart disease risk from health metrics | [Live demo](https://deployedheartdiseaseprediction.streamlit.app/) · [Code](https://github.com/Amar1244/Heart-Disease-Prediction) |
+| **Employee Attrition Prediction** | Predicts attrition risk with Logistic Regression, XGBoost and Random Forest (85% accuracy, SMOTE for class imbalance) | [Live demo](https://employeeretentionpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/employee-retention-prediction) |
+| **Term Deposit Prediction** | Predicts term deposit subscriptions from bank data (91% accuracy) | [Live demo](https://termdepositpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/term-deposit-prediction) |
+| **Heart Disease Prediction** | Predicts heart disease risk from health metrics | [Live demo](https://deployedheartdiseaseprediction.streamlit.app/) · [Code](https://github.com/Amar1244/heart-disease-prediction) |
+| **Amazon Reviews Sentiment Analysis** | TF-IDF with Logistic Regression, Naive Bayes and SVM (86% accuracy), benchmarked against VADER | [Code](https://github.com/Amar1244/amazon-reviews-sentiment-analysis) |
+| **MNIST Digit Classification** | CNN built with TensorFlow and Keras to recognise handwritten digits | [Code](https://github.com/Amar1244/mnist-digit-classification-cnn) |
+
+### 📈 Power BI Dashboards
+
+| Project | What it shows | Links |
+| :--- | :--- | :--- |
+| **Finance Report Dashboard** | Gross sales, profit and units sold by product, segment and country | [Code](https://github.com/Amar1244/finance-report-powerbi-dashboard) |
+| **Superstore Sales Dashboard** | Sales and profit by category, region, customer segment and ship mode | [Code](https://github.com/Amar1244/superstore-sales-powerbi-dashboard) |
 
 ### 🌐 Portfolio
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
-| **Personal Portfolio** | My portfolio website | [Live site](https://amarchaurasiya.vercel.app) · [Code](https://github.com/Amar1244/AmarPortfolio) |
+| **Personal Portfolio** | My portfolio website | [Live site](https://amarchaurasiya.vercel.app) · [Code](https://github.com/Amar1244/amar-portfolio-website) |
 
-**More on GitHub:** [Ask Your PDF (RAG)](https://github.com/Amar1244/Ask-Your-PDF-AI-using-RAG-) · [Amazon Sentiment Analysis](https://github.com/Amar1244/Amazon_sentiment_analysis-using-NLP) · [all repositories](https://github.com/Amar1244?tab=repositories)
+**More:** [all repositories](https://github.com/Amar1244?tab=repositories)
 
 ---
 
