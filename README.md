@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Amar Chaurasiya 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Data Scientist · Full Stack Developer</b>
+  <b>AI/ML Engineer · Data Scientist · Full Stack Developer</b><br/>
+  I build AI chatbots, RAG apps, ML dashboards and business websites.
 </p>
 
 <p align="center">
-  Building intelligent systems with RAG, NLP and Deep Learning — and turning data into decisions.
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Jobs%20%26%20Freelance-2ea44f?style=for-the-badge" alt="Open to Work: Jobs and Freelance" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amar1244">
-    <img src="https://komarev.com/ghpvc/?username=Amar1244&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <a href="mailto:amarchaurasiya124@gmail.com"><img src="https://img.shields.io/badge/Email-amarchaurasiya124%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/amar-chaurasiya-163788262"><img src="https://img.shields.io/badge/LinkedIn-Amar%20Chaurasiya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://amarchaurasiya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amarchaurasiya.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 ## 🟢 Open to Work
 
-I'm **open to full-time roles and freelance projects** in AI/ML, data science and full-stack web development. If you have something to build, let's talk.
+I'm open to **full-time roles and freelance projects** in AI/ML, data science and full-stack web development.
 
 | | |
 | :--- | :--- |
@@ -28,13 +29,12 @@ I'm **open to full-time roles and freelance projects** in AI/ML, data science an
 
 ---
 
-## About Me
+## 🛠️ What I Can Build for You
 
-- 🤖 I work on **AI, Machine Learning and Data Science**
-- 🧠 I build intelligent systems using **RAG, NLP and Deep Learning**
-- 💡 I enjoy turning data into actionable insights
-- 🌐 I build and ship websites for small businesses as a freelancer
-- 🌱 Always learning, always shipping
+- 🤖 **AI chatbots and agents:** LLM assistants with real-time web search, using LangChain and Gemini
+- 📚 **RAG apps:** chat with your PDFs, documents or business data
+- 📈 **ML prediction dashboards:** trained models deployed as interactive Streamlit apps
+- 🌐 **Business websites:** fast, responsive sites deployed on Vercel, like the one I built for a clinic
 
 ---
 
@@ -72,7 +72,7 @@ I'm **open to full-time roles and freelance projects** in AI/ML, data science an
 
 ## Featured Projects
 
-### 🤝 Freelance Client Work
+### 🤝 Freelance Client Project
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
@@ -84,18 +84,16 @@ I'm **open to full-time roles and freelance projects** in AI/ML, data science an
 | :--- | :--- | :--- |
 | **Real-Time Web Search AI Agent** | LangChain + Gemini agent that searches the web in real time using Tavily | [Live demo](https://realtimesearchaiagent.streamlit.app/) · [Code](https://github.com/Amar1244/Real_time_search_Ai_Agent) |
 | **Swiggy RAG AI** | RAG assistant that answers questions over food delivery data | [Live demo](https://swiggy-rag-ai.streamlit.app) · [Code](https://github.com/Amar1244/swiggy-rag-ai) |
-| **AI Email Assistant** | FastAPI + Streamlit app for AI email generation, semantic contact search and bulk sending | [Live demo](https://aiemailassistant.streamlit.app/) · [Code](https://github.com/Amar1244/AI-Email-Assistant-) |
-| **Textro ChatBot** | Flask-based chatbot using Google Gemini 2.0 Flash | [Live demo](https://textrochatbot.vercel.app) · [Code](https://github.com/Amar1244/Textro-ChatBot) |
-| **Ask Your PDF (RAG)** | Chat with any PDF using Gemini, LangChain and ChromaDB | [Code](https://github.com/Amar1244/Ask-Your-PDF-AI-using-RAG-) |
+| **AI Email Assistant** | FastAPI + Streamlit app for AI email writing, semantic contact search and bulk sending | [Live demo](https://aiemailassistant.streamlit.app/) · [Code](https://github.com/Amar1244/AI-Email-Assistant-) |
+| **Textro ChatBot** | Flask chatbot using Google Gemini 2.0 Flash | [Live demo](https://textrochatbot.vercel.app) · [Code](https://github.com/Amar1244/Textro-ChatBot) |
 
-### 📊 Machine Learning & NLP
+### 📊 Machine Learning
 
 | Project | What it does | Links |
 | :--- | :--- | :--- |
 | **Employee Attrition Prediction** | Predicts attrition risk with Logistic Regression, XGBoost and Random Forest (85% accuracy, SMOTE for class imbalance) | [Live demo](https://employeeretentionpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/Employee_Retention_Prediction_Deploy_Model_Dashboard) |
 | **Term Deposit Prediction** | Predicts term deposit subscriptions from bank data (91% accuracy) | [Live demo](https://termdepositpredictiondeployed.streamlit.app/) · [Code](https://github.com/Amar1244/Term_Deposit_Prediction) |
 | **Heart Disease Prediction** | Predicts heart disease risk from health metrics | [Live demo](https://deployedheartdiseaseprediction.streamlit.app/) · [Code](https://github.com/Amar1244/Heart-Disease-Prediction) |
-| **Amazon Sentiment Analysis** | Classifies sentiment in Amazon reviews using NLP and TF-IDF | [Code](https://github.com/Amar1244/Amazon_sentiment_analysis-using-NLP) |
 
 ### 🌐 Portfolio
 
@@ -103,25 +101,19 @@ I'm **open to full-time roles and freelance projects** in AI/ML, data science an
 | :--- | :--- | :--- |
 | **Personal Portfolio** | My portfolio website | [Live site](https://amarchaurasiya.vercel.app) · [Code](https://github.com/Amar1244/AmarPortfolio) |
 
+**More on GitHub:** [Ask Your PDF (RAG)](https://github.com/Amar1244/Ask-Your-PDF-AI-using-RAG-) · [Amazon Sentiment Analysis](https://github.com/Amar1244/Amazon_sentiment_analysis-using-NLP) · [all repositories](https://github.com/Amar1244?tab=repositories)
+
 ---
 
 ## Let's Work Together
 
-Hiring, or have a project in mind? Reach me at [amarchaurasiya124@gmail.com](mailto:amarchaurasiya124@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/amar-chaurasiya-163788262).
+Hiring, or have a project in mind? Email me at [amarchaurasiya124@gmail.com](mailto:amarchaurasiya124@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/amar-chaurasiya-163788262).
 
 ---
-
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amar1244&show_icons=true&theme=tokyonight&hide_border=true" alt="Amar's GitHub stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar1244&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 <p align="center">
   <i>"Turning data into intelligence, one model at a time."</i>
