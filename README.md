@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Jobs%20%26%20Freelance-2ea44f?style=for-the-badge" alt="Open to Work: Jobs and Freelance" />
-</p>
-
-<p align="center">
   <a href="mailto:amarchaurasiya124@gmail.com"><img src="https://img.shields.io/badge/Email-amarchaurasiya124%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/amar-chaurasiya-163788262"><img src="https://img.shields.io/badge/LinkedIn-Amar%20Chaurasiya-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://amarchaurasiya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amarchaurasiya.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -17,9 +13,9 @@
 
 ---
 
-## 🟢 Open to Work
+## 📬 Contact
 
-I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **full-time roles and freelance projects** in AI/ML, data science and web development.
+I'm a **Data Scientist currently working as an AI Engineer**, building AI/ML, data science and web projects.
 
 | | |
 | :--- | :--- |
@@ -126,9 +122,9 @@ I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **
 
 ---
 
-## Let's Work Together
+## Get in Touch
 
-Hiring, or have a project in mind? Email me at [amarchaurasiya124@gmail.com](mailto:amarchaurasiya124@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/amar-chaurasiya-163788262).
+Email me at [amarchaurasiya124@gmail.com](mailto:amarchaurasiya124@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/amar-chaurasiya-163788262).
 
 ---
 
