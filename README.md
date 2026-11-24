@@ -90,8 +90,8 @@ I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **
 
 | Project | What it does | Links |
 | :--- | :--- | :--- |
-| **Real-Time Web Search AI Agent** | LangChain + Gemini agent that searches the web in real time using Tavily | [Live demo](https://realtimesearchaiagent.streamlit.app/) · [Code](https://github.com/Amar1244/Real_time_search_Ai_Agent) |
-| **Swiggy RAG AI** | RAG assistant that answers questions over food delivery data | [Live demo](https://swiggy-rag-ai.streamlit.app) · [Code](https://github.com/Amar1244/swiggy-rag-ai) |
+| **Real-Time Web Search AI Agent** | LangChain + Gemini agent that searches the web in real time using Tavily | [Live demo](https://realtimesearchaiagent.streamlit.app/) · [Code](https://github.com/Amar1244/real-time-web-search-ai-agent) |
+| **Swiggy RAG AI** | RAG assistant that answers questions over food delivery data | [Live demo](https://swiggy-rag-ai.streamlit.app) · [Code](https://github.com/Amar1244/swiggy-annual-report-rag) |
 | **AI Email Assistant** | FastAPI + Streamlit app for AI email writing, semantic contact search and bulk sending | [Live demo](https://aiemailassistant.streamlit.app/) · [Code](https://github.com/Amar1244/AI-Email-Assistant-) |
 | **Textro ChatBot** | Flask chatbot using Google Gemini 2.0 Flash | [Live demo](https://textrochatbot.vercel.app) · [Code](https://github.com/Amar1244/Textro-ChatBot) |
 
