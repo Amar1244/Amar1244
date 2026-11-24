@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Amar Chaurasiya 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Data Scientist · Full Stack Developer</b><br/>
-  I build AI chatbots, RAG apps, ML dashboards and business websites.
+  <b>Data Scientist · AI Engineer</b><br/>
+  B.Sc. IT graduate with a Data Science background. I build AI chatbots, RAG apps, ML dashboards and business websites.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🟢 Open to Work
 
-I'm open to **full-time roles and freelance projects** in AI/ML, data science and full-stack web development.
+I'm a **Data Scientist currently working as an AI Engineer**, and I'm open to **full-time roles and freelance projects** in AI/ML, data science and web development.
 
 | | |
 | :--- | :--- |
@@ -35,6 +35,14 @@ I'm open to **full-time roles and freelance projects** in AI/ML, data science an
 - 📚 **RAG apps:** chat with your PDFs, documents or business data
 - 📈 **ML prediction dashboards:** trained models deployed as interactive Streamlit apps
 - 🌐 **Business websites:** fast, responsive sites deployed on Vercel, like the one I built for a clinic
+
+---
+
+## 🎓 Education & Experience
+
+- **Current role:** AI Engineer
+- **Education:** B.Sc. in Information Technology, followed by Data Science
+- **Focus:** machine learning, NLP, RAG and LLM applications, and data-driven dashboards
 
 ---
 
